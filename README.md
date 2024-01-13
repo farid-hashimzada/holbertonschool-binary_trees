@@ -20,7 +20,7 @@ The binary trees project brings us closer to this concept, knowing that they are
 * What is a complete, a full, a perfect, a balanced binary tree
 
 ## Development environment 🛠️
-This project has been tested on Ubuntu 14.06.6 LTS
+This project has been tested on Ubuntu 20.04
 
 * The tests are carried out in [virtualBox](https://www.virtualbox.com) 
 * Development environment manager [vagrant](https://www.vagrantup.com)
