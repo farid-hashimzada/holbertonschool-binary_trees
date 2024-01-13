@@ -17,7 +17,7 @@ The binary trees project brings us closer to this concept, knowing that they are
 * What is the possible gain in terms of time complexity compared to linked lists
 * What are the depth, the height, the size of a binary tree
 * What are the different traversal methods to go through a binary tree
-* What is a complete, a full, a perfect, a balanced binary tree
+
 
 ## Development environment 🛠️
 This project has been tested on Ubuntu 20.04
