@@ -29,4 +29,4 @@ This project has been tested on Ubuntu 20.04
 
 ## Authors ✒️
 * Farid - student at Holberton School
-* Gunel - student at Holberton School
+* Gunel Sultanova - student at Holberton School
