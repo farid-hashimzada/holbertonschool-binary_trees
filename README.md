@@ -28,5 +28,5 @@ This project has been tested on Ubuntu 20.04
 * Style guidelines: [Betty Style](https://github.com/holbertonschool/Betty)
 
 ## Authors ✒️
-* Farid - student at Holberton School
+* Farid Hashimzada- student at Holberton School
 * Gunel Sultanova - student at Holberton School
